@@ -11,6 +11,7 @@
   +  게시판 : 이미지 업로드, 이미지 썸네일, 게시글 등록, 게시글 조회
     
   +  댓글 : CRUD 가능 처리, 페이징 처리, 평점 등록
+    
 +  개발 언어 : JDK17, HTML, CSS, JavaScript
   
 +  개발 환경 : Spring Boot Devtools, Lombok, Spring Web, Thymeleaf, Spring Data JPA
